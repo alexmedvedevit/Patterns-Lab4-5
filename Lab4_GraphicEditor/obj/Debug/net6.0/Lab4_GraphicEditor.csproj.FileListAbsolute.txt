@@ -1,0 +1,15 @@
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\bin\Debug\net6.0\Lab4_GraphicEditor.exe
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\bin\Debug\net6.0\Lab4_GraphicEditor.deps.json
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\bin\Debug\net6.0\Lab4_GraphicEditor.runtimeconfig.json
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\bin\Debug\net6.0\Lab4_GraphicEditor.dll
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\bin\Debug\net6.0\Lab4_GraphicEditor.pdb
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.csproj.AssemblyReference.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.AssemblyInfoInputs.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.AssemblyInfo.cs
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.csproj.CoreCompileInputs.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.dll
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\refint\Lab4_GraphicEditor.dll
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.pdb
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\Lab4_GraphicEditor.genruntimeconfig.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab4_GraphicEditor\obj\Debug\net6.0\ref\Lab4_GraphicEditor.dll

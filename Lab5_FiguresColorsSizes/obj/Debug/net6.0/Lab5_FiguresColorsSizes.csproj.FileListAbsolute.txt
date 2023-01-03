@@ -1,0 +1,15 @@
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\bin\Debug\net6.0\Lab5_FiguresColorsSizes.exe
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\bin\Debug\net6.0\Lab5_FiguresColorsSizes.deps.json
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\bin\Debug\net6.0\Lab5_FiguresColorsSizes.runtimeconfig.json
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\bin\Debug\net6.0\Lab5_FiguresColorsSizes.dll
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\bin\Debug\net6.0\Lab5_FiguresColorsSizes.pdb
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.csproj.AssemblyReference.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.AssemblyInfoInputs.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.AssemblyInfo.cs
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.csproj.CoreCompileInputs.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.dll
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\refint\Lab5_FiguresColorsSizes.dll
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.pdb
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\Lab5_FiguresColorsSizes.genruntimeconfig.cache
+D:\Универ\УВП-171 (Магистратура)\Сессия\Паттерны\Lab4\Lab5_FiguresColorsSizes\obj\Debug\net6.0\ref\Lab5_FiguresColorsSizes.dll
